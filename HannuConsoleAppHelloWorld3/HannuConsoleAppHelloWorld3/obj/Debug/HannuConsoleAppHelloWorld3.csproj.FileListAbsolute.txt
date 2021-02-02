@@ -1,0 +1,6 @@
+C:\Users\Omistaja\Documents\C#\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\bin\Debug\HannuConsoleAppHelloWorld3.exe.config
+C:\Users\Omistaja\Documents\C#\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\bin\Debug\HannuConsoleAppHelloWorld3.exe
+C:\Users\Omistaja\Documents\C#\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\bin\Debug\HannuConsoleAppHelloWorld3.pdb
+C:\Users\Omistaja\Documents\C#\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\obj\Debug\HannuConsoleAppHelloWorld3.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\Documents\C#\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\obj\Debug\HannuConsoleAppHelloWorld3.exe
+C:\Users\Omistaja\Documents\C#\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\HannuConsoleAppHelloWorld3\obj\Debug\HannuConsoleAppHelloWorld3.pdb
